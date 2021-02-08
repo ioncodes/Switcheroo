@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/steam.png</file>
+        <file>icons/cross.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/clipboard.png</file>
+    </qresource>
+</RCC>
